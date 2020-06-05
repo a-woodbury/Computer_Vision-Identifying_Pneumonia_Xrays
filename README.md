@@ -1,4 +1,4 @@
-![banner.jpg](https://github.com/a-woodbury/DeepBreath/blob/master/Resources/deepbreath.jpg)
+![banner.jpg](https://github.com/a-woodbury/DeepBreath/blob/master/Resources/deepbreathsplash.jpg)
 
 <pre>
 Domain             : Computer Vision, Machine Learning
