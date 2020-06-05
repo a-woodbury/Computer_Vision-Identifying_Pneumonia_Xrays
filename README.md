@@ -33,22 +33,9 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 
 </pre>
 
-#### Dataset
-<pre>
-Dataset Links    : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
-                 : <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2>Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)</a>
-</pre>
+## Problem
 
-### Results:
-
-Model | Accuracy | Precision | F1 | **Recall** |
---- | :---: | :---: | :---: | :---: |
-Baseline Dense | 0.81 | - | - | n/a
-CNN | - | 0.93 | 0.88 - | 0.9
-DenseNet | 0.61 | 0.62 | 0.76 | 0.98
-
-### Methodology:
-
+**Method**
 1.	Download the dataset 
 2.	Reshape x-rays to  64x64 and create a baseline model with dense layers (fully connected)
 3.	Train the data on different models and compare recall scores
@@ -56,7 +43,15 @@ DenseNet | 0.61 | 0.62 | 0.76 | 0.98
     - Convolutional Neural Network
     - DenseNet Pretrained
 4.	Test the data on the best model (highest recall score)
-### Dataset:
+
+
+## Data
+<pre>
+Dataset Links    : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
+                 : <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2>Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)</a>
+</pre>
+
+
 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
@@ -70,7 +65,16 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
   - 234 normal 
   - 390 pneumonia 
 
+## Model
 
+
+## Results
+
+Model | Accuracy | Precision | F1 | **Recall** |
+--- | :---: | :---: | :---: | :---: |
+Baseline Dense | 0.81 | - | - | n/a
+CNN | - | 0.93 | 0.88 - | 0.9
+DenseNet | 0.61 | 0.62 | 0.76 | 0.98
 
 
 
@@ -79,7 +83,7 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 - Incorporate our model to IT softwares (ex: epic) in hospital settings to assist health professionals diagnose pneumonia patients
 - Use our model under the supervision of a radiologist to enhance accuracy/recall to improve treatment outcomes which will increase hospitals' ratings and fundings. 
 
-### Next Steps:
+## Future
 
 - Improve the current model with additional chest x-ray data from adult patients 
 - Explore machine learning solutions that detects the cause of pneumonia (viral vs bacterial)
