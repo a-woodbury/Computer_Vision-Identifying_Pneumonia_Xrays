@@ -1,5 +1,7 @@
 ![banner.jpg](https://github.com/a-woodbury/DeepBreath/blob/master/Resources/deepbreathsplash.jpg)
 
+**Identifying Pneumonia in Chest X-rays using Deep Learning**
+
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
