@@ -8,31 +8,6 @@ According to the [American Thoracic Society](https://www.thoracic.org/patients/p
 
 In this project, our goal is to train and build a deep learning model that can classify whether a given patient has pneumonia, given a chest x-ray image.
 
-<pre>
-Domain             : Computer Vision, Machine Learning
-Sub-Domain         : Deep Learning, Image Recognition
-Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
-Application        : Image Recognition, Image Classification, Medical Imaging
-</pre>
-<pre>
-Contributors:
-<a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
-<a href=https://github.com/viviandng>Vivian Dang</a>
-</pre>
-
-![coverphoto.png](https://github.com/viviandng/flatiron-project-4/blob/master/images/xray.png)
-
-
-
-
-### Items in Repository:
-
-- README.md - a summary of the repository content
-
-- [/images](https://github.com/viviandng/flatiron-project-4/tree/master/images) - all images
-
-- [/presentation](https://github.com/viviandng/flatiron-project-4/blob/master/Presentation/Pneumonia%20X-Ray%20Detection.pdf) - PowerPoint and pdf files of the final presentation
-
 ### Repository Navigation
 <pre>
 Technical Notebook : <a href=https://github.com/a-woodbury/RxVision/blob/master/Notebooks/RxVision_Technical_Notebook.ipynb>Technical Notebook </a>
@@ -54,6 +29,7 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 [Works Cited](https://github.com/a-woodbury/RxVision#works-cited)
 
 
+![coverphoto.png](https://github.com/viviandng/flatiron-project-4/blob/master/images/xray.png)
 
 </pre>
 
