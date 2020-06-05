@@ -1,4 +1,4 @@
-# Pneumonia Image Classification with Deep Learning
+# DeepBreath
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
