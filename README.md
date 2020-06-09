@@ -115,3 +115,8 @@ Application  : Image Recognition, Image Classification
 </pre>
 
 ## Works Cited
+- [American Thoracic Society](https://www.thoracic.org/professionals/career-development/residents-medical-students/ats-reading-list/adult/pneumonia.php)
+- [Stanford CheXNet Model](https://stanfordmlgroup.github.io/projects/chexnet/)
+- [Udacity TensorFlow Free Course](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Keras API](https://keras.io/api/)
+- [Web Application Code by Xin Fu](https://github.com/mtobeiyf/keras-flask-deploy-web-app)
